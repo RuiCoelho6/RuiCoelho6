@@ -1,7 +1,5 @@
 ## 👋 Welcome to my GitHub!
 
-I'm glad you're here.
-
 I'm currently exploring and building projects in **C** and **C++**.  
 This space is where I share my experiments, learning journeys, and open-source contributions.
 
