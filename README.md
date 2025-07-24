@@ -1,6 +1,4 @@
-👋 Hello there!
-
-Welcome to my GitHub! I'm glad you're here.
+👋 Welcome to my GitHub! I'm glad you're here.
 
 I'm currently exploring and building projects in C and C++. This space is where I share my experiments, learning journeys, and open-source contributions.
 Whether you're here to browse, collaborate, or just curious—feel free to take a look around. Feedback, ideas, or just a friendly hello are always welcome. 🙂
