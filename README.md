@@ -7,5 +7,5 @@ Whether you're here to browse, collaborate, or just curious—feel free to take 
 Feedback, ideas, or just a friendly hello are always welcome. 🙂
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiCoelho6&show_icons=true&theme=chartreuse-dark&layout=donut-vertical" alt="Top Languages" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiCoelho6&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" width="35%">
 </p>
