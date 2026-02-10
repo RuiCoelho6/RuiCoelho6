@@ -6,4 +6,7 @@ This space is where I share my experiments, learning journeys, and open-source c
 Whether you're here to browse, collaborate, or just curious—feel free to take a look around.  
 Feedback, ideas, or just a friendly hello are always welcome. 🙂
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuiCoelho6&theme=github_dark)
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RuiCoelho6&theme=github_dark" />
+</p>
