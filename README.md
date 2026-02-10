@@ -5,6 +5,5 @@ This space is where I share my experiments, learning journeys, and open-source c
 
 Whether you're here to browse, collaborate, or just curious—feel free to take a look around.  
 Feedback, ideas, or just a friendly hello are always welcome. 🙂
-<p align="center">
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RuiCoelho6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
